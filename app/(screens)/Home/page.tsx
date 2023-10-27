@@ -1,8 +1,10 @@
+
+import NavbarMain from "@/app/components/NavbarMain"
 import React from "react"
 
 function HomePage() {
   return (
-    <div>HomePage</div>
+    <NavbarMain />
   )
 }
 
