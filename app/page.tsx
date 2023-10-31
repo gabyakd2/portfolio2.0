@@ -1,10 +1,10 @@
-import React from "react"
-import HomePage from "./(screens)/Home/page"
+import React from "react";
+import NavbarMain from "./components/NavbarMain";
 
 function PageMain() {
   return (
     <div>
-      <HomePage />
+      <NavbarMain />
     </div>
   )
 }
